@@ -1,7 +1,7 @@
-Objective:
+**Objective**:
 A Python-based application with a graphical user interface (GUI) that allows users to compare multiple columns between two Excel files and generate a detailed comparison report. The tool aims to streamline the process of identifying matching and non-matching values across specified columns, thus improving data analysis efficiency for business users.
 
-Key Features:
+**Key Features**:
 
 File Selection:
 Prompt the user to select two Excel files to be compared.
